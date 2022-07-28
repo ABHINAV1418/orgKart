@@ -1,3 +1,3 @@
 # orgKart
-## Homw Page
-![Home Page](https://postimg.cc/fJmMKw8c)
+## Home Page
+![Home Page](images/homePage.png)
